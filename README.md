@@ -25,13 +25,13 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a> 
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/packerio/packerio-ar21.svg" alt="ansible" width="40" height="40"/></a>
-<a href="https://www.packer.io/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a> 
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Action" width="40" height="40"/></a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a> 
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/packerio/packerio-ar21.svg" alt="ansible" width="80" height="40"/></a>
+<a href="https://www.packer.io/" target="_blank" rel="noreferrer"> 
 <br>
 <h3 align="left">Operating System:</h3>
 <p align="left"> 
